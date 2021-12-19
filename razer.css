@@ -1,0 +1,66 @@
+body{
+    background-color: background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0f9b0f, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0f9b0f, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+}
+.container-new{
+    background-color:black;
+    border-bottom: solid greenyellow;
+    height: 70px;
+    width: 1300px;
+}
+.p{
+    
+}
+.w{
+   
+}
+.an{
+    border:none;
+    color: transparent;
+    border-radius: 7px;
+    background-color: black;
+
+    
+}
+hr{
+    color: #000;
+}
+.nk{
+    width: 200px;
+    height: 200px;
+    border-radius: 7px;
+}
+.fr{
+    border-radius: 7px;
+    border-color: chartreuse;
+    color: black;
+    background-color: transparent;
+}
+
+.container-z{
+    background-color:black;
+    border-top: solid greenyellow;
+    height: 100px;
+   
+}
+.as{background-image:url(l.jpeg);
+    width:1200px;
+    height: 600px;
+    padding: 2px;
+}
+.fn{background-image:url(c.jpeg);
+    width:1200px;
+    height: 600px;
+    padding: 2px;
+}
+.mn{background-image:url(v.jpeg);
+    width:1200px;
+    height: 600px;
+    padding: 2px;
+}
+p{color: greenyellow;}
+.btn-fg{color: greenyellow;
+background-color: transparent;
+border-color: transparent;}

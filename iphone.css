@@ -1,0 +1,55 @@
+body{background: #5433FF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to top, #A5FECB, #20BDFF, #5433FF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to top, #A5FECB, #20BDFF, #5433FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    }
+
+
+
+.q{
+background-color: black;
+
+height: 100px;
+
+
+
+
+
+}
+
+
+.w{
+
+}
+
+
+.e{
+    
+}
+footer{
+
+background-color: black;
+border-width: 100px;
+height: 100px;
+
+
+}
+.row{
+    height: 400px;
+}
+.col-sm-6{
+    background-color: darkcyan;
+border-width: 10px;
+margin: 10px;
+height: 380px;
+border-radius: 25px;
+
+
+}
+.btn{
+    border-radius: 50%;
+    margin: 10px;
+    height: 40px;
+}
+
+

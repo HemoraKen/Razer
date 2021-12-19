@@ -1,0 +1,17 @@
+.ds{background-image: url(m.jpeg);
+    width:1300px;
+    height: 800px;}
+
+{background: transparent;
+        background-color: transparent;
+color: transparent;
+border-color: violet;
+height: 40px;
+width: 200px;   
+padding: 2px;
+}
+.bg-light{background-color: black;
+height: 100px;
+width: 1300px;
+border-top:solid greenyellow;}
+
